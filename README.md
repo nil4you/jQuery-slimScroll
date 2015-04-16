@@ -10,6 +10,7 @@ Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
 jQuery('#scroll').slimScroll({
 
   height: jQuery(window).height()+'px', //if you want whole page containing div to get scroll it's a trick only 
+  
   mouseOver:true // if element you want to scroll will already hovered then make it true else no need to mention it.
   
 });
